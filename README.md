@@ -1,11 +1,8 @@
 # 75.10 Técnicas de Diseño - Template project
- ![Build Status](https://travis-ci.org/7510-tecnicas-de-disenio/template.svg?branch=master) 
+ ![Build Status](https://travis-ci.org/FacuEt/TP0-95604-Queue.svg?branch=master) 
 
-Template Gradle project
+*FIUBA
+*TP0-Queue
 
-* Gradle
-* Checkstyle
-* Findbugs
-* PMD
-* JaCoCo
+Facundo Etchanchú | 95604
 
